@@ -9,6 +9,10 @@
   },
   "author": "m-mitsuhide <m.mitsuhide@amatelus.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amatelus/promise-mysql.git"
+  },
   "dependencies": {
     "eslint": "^4.12.1",
     "eslint-config-airbnb-base": "^12.1.0",
